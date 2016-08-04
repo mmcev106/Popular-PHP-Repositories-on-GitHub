@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACI,cAAc;EACd,oBAAoB;EACpB,mBAAmB;EACnB,oBAAoB,EACvB;;AAED;EACI,iBAAiB,EACpB","file":"app.css","sourcesContent":[".repo-details {\n    display: none;\n    background: #e6f2ff;\n    border-radius: 5px;\n    margin-bottom: 10px;\n}\n\n.repo-details th {\n    min-width: 125px;\n}"],"sourceRoot":"/source/"}

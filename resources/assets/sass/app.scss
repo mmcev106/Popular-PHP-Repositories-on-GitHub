@@ -1,2 +1,10 @@
-// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+.repo-details {
+    display: none;
+    background: #e6f2ff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
 
+.repo-details th {
+    min-width: 125px;
+}
